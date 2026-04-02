@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Stockholm Syndrome",
+  "base_artist": "One Direction",
+  "createdAt": "2026-04-02T01:01:25.417092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/01_Stockholm_Syndrome_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/02_Stockholm_Syndrome_Muse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cyber Stockholm Syndrome",
+      "artist": "Rina Sawayama",
+      "has_synced": true,
+      "path": "select/03_Cyber_Stockholm_Syndrome_Rina_Sawayama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome (feat. Wicca Phase Springs Eternal)",
+      "artist": "Horse Head",
+      "has_synced": true,
+      "path": "select/04_Stockholm_Syndrome_(feat._Wicca_Phase_Springs_Eternal)_Horse_Head.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/05_Stockholm_Syndrome_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/06_Stockholm_Syndrome_Muse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome - Live From Wembley Stadium",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/07_Stockholm_Syndrome_-_Live_From_Wembley_Stadium_Muse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Montaigne",
+      "has_synced": true,
+      "path": "select/08_Stockholm_Syndrome_Montaigne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "blink‐182",
+      "has_synced": true,
+      "path": "select/09_Stockholm_Syndrome_blink‐182.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Erra",
+      "has_synced": true,
+      "path": "select/10_Stockholm_Syndrome_Erra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/11_Stockholm_Syndrome_Muse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome (ft. Wicca Phase Springs Eternal)",
+      "artist": "Horse Head",
+      "has_synced": true,
+      "path": "select/12_Stockholm_Syndrome_(ft._Wicca_Phase_Springs_Eternal)_Horse_Head.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome (Album Version)",
+      "artist": "blink-182",
+      "has_synced": true,
+      "path": "select/13_Stockholm_Syndrome_(Album_Version)_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "IDLES",
+      "has_synced": true,
+      "path": "select/14_Stockholm_Syndrome_IDLES.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stockholm Syndrome",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/15_Stockholm_Syndrome_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stockholm Syndrome",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Stockholm_Syndrome_One_Direction.txt"
+    }
+  ]
+}
